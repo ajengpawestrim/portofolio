@@ -1,2 +1,2 @@
 # portofolio
-i'm a student
+I'm a student.
